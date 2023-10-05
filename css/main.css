@@ -1,0 +1,113 @@
+.title {
+    text-align: center;
+    margin:50px 0 20px;
+    font-size:58px;
+    font-weight: 700;
+    color: cornflowerblue;
+}
+
+.form-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    justify-content: center;
+}
+
+.text {
+    font-size: 24px;
+    color: black;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.form {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.input {
+    width: 300px;
+    font-size: 18px;
+}
+
+.form-btn {
+    color: #fff;
+    font-weight: 700;
+    width: 100px;
+    font-size: 16px;
+}
+
+.vehicles-list {
+    margin-top: 80px;
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+.vehicle-items{
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    border-radius: 36px;
+    padding: 30px 0;
+    border: 2px solid black;
+}
+
+.passenger-text {
+    margin-top: 10px;
+    font-size: 24px;
+    color:black;
+}
+
+.passenger-result {
+    margin: 0;
+    margin-top: 10px;
+    font-size: 24px;
+    color:blue;
+    font-weight: 900;
+}
+
+.bike-text {
+    margin-top: 10px;
+    font-size: 24px;
+    color:black;
+}
+
+.bike-result {
+    margin: 0;
+    margin-top: 10px;
+    font-size: 24px;
+    color:blue;
+    font-weight: 900;
+}
+
+.car-text {
+    margin-top: 10px;
+    font-size: 24px;
+    color:black;
+}
+
+.car-result {
+    margin: 0;
+    margin-top: 10px;
+    font-size: 24px;
+    color:blue;
+    font-weight: 900;
+}
+
+.plane-text {
+    margin-top: 10px;
+    font-size: 24px;
+    color:black;
+}
+
+.plane-result {
+    margin: 0;
+    margin-top: 10px;
+    font-size: 24px;
+    color:blue;
+    font-weight: 900;
+}
